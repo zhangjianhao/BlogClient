@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:id="@+id/context_menu"
+        android:title="add"
+        android:icon="@drawable/btn_add"
+        app:showAsAction="always" />
+</menu>
+<!-- From: file:/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/src/main/res/menu/menu_main.xml -->

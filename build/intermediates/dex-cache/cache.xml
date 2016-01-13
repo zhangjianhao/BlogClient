@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/exploded-aar/BlogClient2/Imageloadlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e393b15bb2d483f64c4345e33a0c7261c76af1a">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/classes-1b13f2f2bcbc7398f7832938c1fb934e954bd0f2.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/systembartint-1.0.3-1816b7e8f80706f84a1ac089726b0a6537364743.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/classes-193c1a6a13f1895181c3e6e533d849631fffc6be.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-75dbe6874b037fdf71e7a1e9d88c8b3cdd571da2.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/libs/YoumiSdk_v5.00_2015-01-08.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9a82405de8ad664118532d59f84e74fa574ffd40">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/YoumiSdk_v5.00_2015-01-08-301f7d2f0adb27893e6cbb418f0cdfe995b4fb00.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/developer/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0-9fb211d899324caa83e91b427a15dbd5721a7f78.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/exploded-aar/com.yalantis/contextmenu/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fffd36cea08006dcb23d7c0260b6b096a2557d09">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/classes-00befbd3917a859597138b35c3d24d6a1fa448e9.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/classes-33ab12356f759c0a7a34d22ea1ac4c4a7bc88d37.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/libs/jsoup-1.7.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/jsoup-1.7.2-9ea8fb5b2c3e7542caf9e06e18f18765feeccba1.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/library-2.4.0-cfcce9c74c81ea47388219916f2e3d3e2aa9630d.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/classes-0932e6593d6250bd3f9d1b5a7bd0dcba55a303e0.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/exploded-aar/BlogClient2/ViewPagerIndicator/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c97904731b174a968efa95e4821adf05fcc528b1">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/classes-2a6f5b2a4869bf853a65d937597a49b901500431.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/libs/push-com.pmkg.p-2.1.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="199a23d7123571b63cd45dbe0ca12a9c90463287">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/push-com.pmkg.p-2.1.4-78fddd9cacc5143fc82e5e362a910f2ceb6bc107.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/exploded-aar/BlogClient2/PulltoRefresh/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef73682a701616172bedd458dd9efcfed2ded616">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/classes-dff6ff2f8eecb03603a7b542f91a5a068fdcbbbb.jar" />
+    </item>
+    <item
+        jar="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/zjianhao/workspace/AndroidStudioWorkSpace/BlogClient2/app/build/intermediates/pre-dexed/release/classes-f81c9b4e8f15fd3c37baae20fede6bd61e482851.jar" />
+    </item>
+
+</items>

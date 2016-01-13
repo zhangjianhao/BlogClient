@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "com.example.blogclient"
+        minSdkVersion 11
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:22.0.0'
+    compile 'com.yalantis:contextmenu:1.0.3'
+    compile project(':ViewPagerIndicator')
+    compile project(':PulltoRefresh')
+    compile project(':Imageloadlibrary')
+    compile files('libs/jsoup-1.7.2.jar')
+    compile files('libs/push-com.pmkg.p-2.1.4.jar')
+    compile files('libs/banner-com.phkg.b-1.1.5.jar')
+    compile files('libs/YoumiSdk_v5.00_2015-01-08.jar')
+    compile 'com.google.android.gms:play-services-appindexing:8.1.0'
+    compile 'com.readystatesoftware.systembartint:systembartint:1.0.3'
+}
